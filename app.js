@@ -3,10 +3,10 @@
 ===================================================== */
 
 const SUPABASE_URL =
-    "YOUR_SUPABASE_PROJECT_URL";
+    "https://brotcqznzuchmqzqevjy.supabase.co";
 
 const SUPABASE_KEY =
-    "YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY";
+    "sb_publishable_UD6-tboqgctR4KEiaEZzcw_8cLyWvNH";
 
 
 const { createClient } =
